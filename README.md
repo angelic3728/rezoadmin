@@ -33,7 +33,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Runs built app on `http://localhost:5000` and `http://{your.network.ip}:5000`
 
-In order to change public url you have to update:
+<!-- In order to change public url you have to update:
 
 1. `package.json`
 
@@ -114,3 +114,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+ -->
