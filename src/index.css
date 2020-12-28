@@ -1,0 +1,83 @@
+.kt-portlet .kt-portlet__head .kt-portlet__head-label i, .kt-portlet .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-title, .MuiTypography-root.MuiTypography-h6 {
+    font-size: 1.7rem;
+    color:#0abb87;
+}
+
+.kt-portlet .kt-portlet__head .kt-portlet__head-label .kt-portlet__head-title {
+    margin-left: 3px;
+}
+
+.kt-portlet__head {
+    background:#e1f6f0;
+}
+
+.kt-widget12 .kt-widget12__content .kt-widget12__item .kt-widget12__info .kt-widget12__desc {
+    font-size:1.5rem;
+}
+
+.kt-widget12 .kt-widget12__content .kt-widget12__item .kt-widget12__info .kt-widget12__value {
+    font-size: 1.8rem;
+    color: #355bff;
+}
+
+.MuiTableCell-root.MuiTableCell-body img {
+    border-radius:5px;
+}
+
+.MuiTableSortLabel-root {
+    font-size: 1.3rem;
+}
+
+.MuiTableBody-root .MuiTableCell-body {
+    font-size: 1.2rem;
+}
+
+.kt-menu__nav .kt-menu__link span, .kt-menu__nav .kt-menu__link i {
+    font-size: 1.3rem!important;
+}
+
+.MuiTypography-root.MuiTypography-h3 {
+    text-align: center;
+    background-color: coral;
+    padding: 10px;
+    color: black;
+    border-radius: 5px;
+}
+
+.p-4 .col-md-6 .MuiTypography-root.MuiTypography-h6 {
+    margin: 10px 0px;
+    border-bottom: 1px solid #006547;
+    padding: 0px 0px 3px 0px;
+}
+
+.label-item {
+    float: left;
+    width: 100%;
+    background-color: #e2e2e1;
+    padding: 8px;
+    border-radius: 4px;
+    color: black;
+}
+
+.MuiTypography-root.MuiTypography-h6 {
+    font-size: 2rem;
+    color: #006547;
+}
+
+.tweets-btn-group .btn-success {
+    color: #fff;
+    background-color: #0abb87;
+    border-color: #0abb87;
+    color: #ffffff;
+}
+
+.tweets-btn-group .btn-danger {
+    color: #fff;
+    background-color: #fd397a;
+    border-color: #fd397a;
+    color: #ffffff;
+}
+
+.highlight-report {
+    background-color: beige;
+}
